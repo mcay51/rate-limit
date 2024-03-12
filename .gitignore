@@ -35,3 +35,11 @@ build/
 .vscode/
 mvnw.cmd
 .mvn/wrapper/maven-wrapper.properties
+src/main/java/tr/com/mustafacay/ratelimit/.DS_Store
+src/main/java/tr/com/mustafacay/.DS_Store
+src/main/java/tr/com/.DS_Store
+src/main/java/tr/.DS_Store
+src/main/java/.DS_Store
+src/main/.DS_Store
+src/.DS_Store
+.mvn/wrapper/maven-wrapper.jar
